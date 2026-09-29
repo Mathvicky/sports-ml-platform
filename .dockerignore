@@ -1,0 +1,9 @@
+.venv
+.venv-py313-backup
+.venv-py312
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+.pytest_cache
